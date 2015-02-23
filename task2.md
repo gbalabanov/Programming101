@@ -10,7 +10,6 @@ public class HelloWorld{
                     { return false; )
                 if(str.charAt(apos+3)=='b')
                     {return true;}
-                else return false;
             }
         }
      }
