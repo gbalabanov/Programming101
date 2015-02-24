@@ -16,9 +16,10 @@ public class HelloWorld{
                     output.append(str.charAt(i));
                     output.append('-');
                 }
-                else output.append(str.charAt(i));
+                else 
+                    output.append(str.charAt(i));
             }
-        } 
             return output.toString();
+        } 
      }
 }
