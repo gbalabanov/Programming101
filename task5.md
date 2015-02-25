@@ -23,7 +23,7 @@ public class HelloWorld{
                 if(sum>water) {
                     return i;
                 }
-                return tetrahedrons.lenght();
+                return tetrahedrons.length();
             }
         }
      }
